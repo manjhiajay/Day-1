@@ -1,0 +1,11 @@
+Git Hub basuc commands 
+1.Pull reqquest clone: git clone https://github.com/<username>/<repository name>
+2.cd "directory name" < To change directory >
+3.create file name: dir/p
+4.To add all files: git add .
+5. to deply files: git commit -m "name"
+6.every repository  having mamster/main branch
+7. to add git to remote: add origin https://github.com/<username>/repository name>.git
+8.to final deploy git push -U origin master
+9. to make branch file master: git bracj -M master
+
