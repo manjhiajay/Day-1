@@ -1,4 +1,4 @@
-Git Hub basuc commands 
+Git Hub basic commands 
 1.Pull reqquest clone: git clone https://github.com/<username>/<repository name>
 2.cd "directory name" < To change directory >
 3.create file name: dir/p
